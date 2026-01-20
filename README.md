@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @ajeetchoudhary9997
-- 👀 I’m interested in Android and react native development
-- 🌱 I’m currently learning Clean Architecture
-- 📫 How to reach me ajeetchoudhary9997@gmail.com
+👋 Hi, I’m Ajeet Choudhary
+
+👨‍💻 Android developer experienced with MVVM and Clean Architecture
+
+🚀 Currently learning Jetpack Compose, Koin, and Ktor
+
+💡 Always excited to explore modern Android development tools and best practices
 
 <!---
 ajeetchoudhary9997/ajeetchoudhary9997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
