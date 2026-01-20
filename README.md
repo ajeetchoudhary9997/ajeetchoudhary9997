@@ -1,4 +1,4 @@
-👋 Hi, I’m Ajeet Choudhary
+👋 Hi, I’m Ajeet Singh
 
 👨‍💻 Android developer experienced with MVVM and Clean Architecture
 
