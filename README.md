@@ -1,6 +1,6 @@
 👋 Hi, I’m Ajeet Singh
 
-👨‍💻 Android developer experienced with MVVM and Clean Architecture
+👨‍💻 Senior Android developer experienced with MVVM and Clean Architecture
 
 🚀 Currently learning Jetpack Compose, Koin, and Ktor
 
